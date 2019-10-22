@@ -45,6 +45,7 @@ Please use the [Link Suggestion Form](https://airtable.com/shryEZ28iLgjBbTCE) to
 - [Supercharge Google Fonts](https://medium.com/@pierluc/supercharge-google-fonts-with-cloudflare-and-service-workers-25c37462fb6a) (optmimize, CDN, JS) ([author's live site](https://www.jirafe.io/)) - Inlines font requests with CfWorker, then caches in browser.
 - [Cryptocurrency API Gateway](https://github.com/stevenpack/cryptoserviceworker) (gatekeeper, route, TypeScript) ([blog post at CloudFlare](https://blog.cloudflare.com/cryptocurrency-api-gateway-typescript-workers/)) - Mini http request routing, then gateway to multiple crypto API providers in 1 file.
 - [Maintenance Mode static page](https://www.resdevops.com/2018/03/20/cloudflare-workers-maintenance-mode-static-page/) (static, JS) - Includes PowerShell script to toggle.
+- [Testing Cloudflare workers](https://findwork.dev/blog/testing-cloudflare-workers/) - How to test Cloudflare workers with Mocha and Chai.
 
 ## GraphQL
 
